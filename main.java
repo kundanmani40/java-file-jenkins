@@ -5,6 +5,7 @@ public class main{
         System.out.println("Hello Everyone!");
         System.out.println(new Date());
         System.out.println("Adding one more line...");
-
+        students s = new students();
+        s.SayHello();
     }
 }
